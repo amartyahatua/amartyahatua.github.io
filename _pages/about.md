@@ -17,7 +17,7 @@ My work is focused on developing financial prediction models for existing and pr
 
 ## Curriculum Vitae
 Please download the CV here: 
-<a href="./../files/CV_Amartya.csv" style="text-decoration: none;">
+<a href="./../files/CV_Amartya.pdf" style="text-decoration: none;">
 <img src="./../images/slides-icon.svg" width=16em title="Slides"/>
 </a>
 
