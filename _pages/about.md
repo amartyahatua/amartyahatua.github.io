@@ -19,7 +19,6 @@ My work is focused on developing financial prediction models for existing and pr
 SpaceML: Technical Team Member
 
 1. Working on the NASA Meteor Shower web portal project, which helps the user to browse through aggregated meteor, star, and constellation data from different stations in the past few years.
-Please visit: https://meteorshowers.seti.org'
+Please visit: [Link](https://meteorshowers.seti.org')
 
 2. Contributed to CAMS-Net Meteor Detector ablation analysis, implementing deep learning models and attention mechanism.
----
