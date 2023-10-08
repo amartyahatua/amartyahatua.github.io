@@ -14,7 +14,7 @@ Currently, I am working as a Senior Data Scientist in a financial services compa
 <br>
 My work is focused on developing financial prediction models for existing and prospective clients.  
 Prior to this, I worked as a post-doctoral fellow at the University of Houston worked with [Dr. Rakesh Verma](http://cs.uh.edu/~rmverma)  and [Dr. Arjun Mukherjee](https://www2.cs.uh.edu/~arjun/).
-I completed PhD in Computational Science at the University of Southern Mississippi under the supervison of Dr. Andrew H. Sung. Data Science, Machine Learning, Data mining, and related techniques play a pivotal role in my research on medical image processing for diabetic retinopathy, information diffusion in social media, Goal-oriented Chabot, and Machine Unlearning.
+I completed PhD in Computational Science at the University of Southern Mississippi under the supervison of [Dr. Andrew H. Sung](https://www.usm.edu/faculty-directory/profile.php?id=1937038). Deep Learning, Machine Learning, Data mining, and related techniques play a pivotal role in my research on medical image processing for diabetic retinopathy, information diffusion in social media, Goal-oriented Chabot, and Machine Unlearning.
 <br>
 
 ## Curriculum Vitae
