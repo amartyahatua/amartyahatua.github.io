@@ -23,7 +23,9 @@ Please download the CV here:
 
 ## Patents
 1. IMAGE DISPLAY: [KR20180035045A](https://worldwide.espacenet.com/patent/search/family/061977449/publication/KR20180035045A?q=pn%3DKR20180035045A)
+
 2. DISPLAY DEVICE AND CONTROLLING METHOD THEREOF: [KR20170012998A](https://worldwide.espacenet.com/patent/search/family/058108912/publication/KR20170012998A?q=pn%3DKR20170012998A)
+
 3. APPARATUS FOR CONTROLLING IMAGE DISPLAY AND METHOD THEREOF: [KR20160008893A](https://worldwide.espacenet.com/patent/search/family/055306847/publication/KR20160008893A?q=pn%3DKR20160008893A)
 
 ## Research Projects
@@ -34,3 +36,17 @@ SpaceML: Technical Team Member
 Please visit: [https://meteorshowers.seti.org](https://meteorshowers.seti.org)
 
 2. Contributed to CAMS-Net Meteor Detector ablation analysis, implementing deep learning models and attention mechanism.
+
+## Important Previous Projects
+
+1. Developed a system to Identify signs of diabetic retinopathy in eye images using Hadoop, MapReduce, and Mahout framework.
+
+2. Developed a voice data analysis system for the Customer care centers using Hadoop and MapReduce framework.
+
+3. Developed a Log analysis system using Hadoop and MapReduce framework for an analysis of user activities.
+
+4. Road direction in camera preview of Android smartphone ­ Proposed the idea. Designed and developed the algorithm as part of a five-member. Integrating Google Map APIs and LG Camera application.
+
+5. Camera flash reduction (Collaboration with Indian Institute of Science, Bangalore)­ Determining the flashlight effects in the image taken by a mobile phone’s camera and reducing white patches. Worked on designing the algorithm and implementation. Mainly using Poisson blending
+
+6. Structured data retrieval Proposed the idea. Designed and developed the algorithm as part of a five-member team. Integrating Google Map APIs and LG Camera application.
