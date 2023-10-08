@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +51,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+Education
+======
+* Ph.D, Computational Science, University of Southern Mississipp  2016-2020
+* M.Tech, Information Technology, National Institute of Technology Karnataka	2011-2013
+* B.Tech, Information Technology, Calcutta Institute of Engineering and Management	2006-2010
+

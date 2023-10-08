@@ -14,6 +14,13 @@ Currently, I am working as a Senior Data Scientist in a financial services compa
 <br>
 My work is focused on developing financial prediction models for existing and prospective clients.  Prior to this, I was working as a post-doctoral fellow at the University of Houston after having completed my PhD in Computational Science at the University of Southern Mississippi. Data Science, Machine Learning, Data mining, and related techniques play a pivotal role in my research on medical image processing for diabetic retinopathy, information diffusion in social media, Goal-oriented Chabot, and Machine Unlearning.
 <br>
+
+## Curriculum Vitae
+Please download the CV here: 
+<a href="./../files/CV_Amartya.csv" style="text-decoration: none;">
+<img src="./../images/slides-icon.svg" width=16em title="Slides"/>
+</a>
+
 ## Research Projects
 
 SpaceML: Technical Team Member
