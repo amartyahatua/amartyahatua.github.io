@@ -25,7 +25,7 @@ Please download the CV here:
 
 ## Research Projects
 
-### SpaceML: Technical Team Member
+### [SETI Institute Affiliate](https://www.seti.org/affiliates/amartya-hatua)
 
 1. Working on the NASA Meteor Shower web portal project, which helps the user to browse through aggregated meteor, star, and constellation data from different stations in the past few years.
 Please visit: [https://meteorshowers.seti.org](https://meteorshowers.seti.org)
