@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amartya Hatua"
+title                    : "Filip Cano Córdoba"
 title_separator          : "-"
-name                     : &name "Amartya Hatua"
-description              : &description "Senior Data Scientist at Fidelity Investments"
-url                      : https://amartyahatua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Filip Cano Córdoba"
+description              : &description "Just a person"
+url                      : https://matefriki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/amartyahatua"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "matefriki/matefriki.github.io"
+teaser                   : "filip_400x400.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amartya Hatua"
-  avatar           : "profile.jpg"
-  bio              : "Senior Data Scientist at Fidelity Investments"
-  location         : "Cambridge, MA"
-  employer         :
+  name             : "Filip Cano Córdoba"
+  avatar           : "filip_400x400.png"
+  bio              : "PhD Student at TU Graz in Artificial Intelligence"
+  location         : "Graz, Austria"
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=NEZorGMAAAAJ&hl=en"
-  email            : "amartyahatua@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=kfKzEcYAAAAJ"
+  email            :  "filip.cano@iaik.tugraz.at"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "matefriki"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7868-0091"
+  linkedin         : "fccordoba"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "amartya_hatua"
+  twitter          : "@filipcano95"
   vine             :
   weibo            :
   xing             :
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -224,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -243,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CET # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
