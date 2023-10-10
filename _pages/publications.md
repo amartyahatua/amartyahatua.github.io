@@ -12,15 +12,17 @@ author_profile: true
 3. APPARATUS FOR CONTROLLING IMAGE DISPLAY AND METHOD THEREOF: [KR20160008893A](https://worldwide.espacenet.com/patent/search/family/055306847/publication/KR20160008893A?q=pn%3DKR20160008893A)
 
 ## Publications
-12. Claim Verification using a Multi-GAN based Model, RANLP 2021: Recent Advances in Natural Language Processing​ (Online event). https://arxiv.org/abs/2103.08001
+13. AI-Enhanced Data Processing and Discovery Crowd Sourcing for Meteor Shower Mapping, [Link](https://arxiv.org/pdf/2308.02664.pdf)
 
-11. On the Feasibility of Using GANs for Claim Verification-Experiments and Analysis, Workshop on Reducing Online Misinformation through Credible Information Retrieval, April 2021, Tuscany, Italy (Online event).
+12. Claim Verification using a Multi-GAN based Model, RANLP 2021: Recent Advances in Natural Language Processing​ (Online event). [Link](https://arxiv.org/abs/2103.08001)
 
-10. Early Detection of Diabetic Retinopathy from Big Data in Hadoop Framework, Displays - Journal – Elsevier.
+11. On the Feasibility of Using GANs for Claim Verification-Experiments and Analysis, Workshop on Reducing Online Misinformation through Credible Information Retrieval, April 2021, Tuscany, Italy (Online event). [Link](https://par.nsf.gov/servlets/purl/10292222)
 
-9. Information Diffusion on Twitter: Pattern Recognition and Prediction of Volume, Sentiment, and Influence, Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, ACM, p157-167, December 2017, New York, USA. 
+10. Early Detection of Diabetic Retinopathy from Big Data in Hadoop Framework, Displays - Journal – Elsevier. [Link](https://par.nsf.gov/servlets/purl/10292222)
 
-8. Goal-Oriented Conversational System Using Transfer Learning and Attention Mechanism, The 10th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference, Columbia University, October 2019, New York City, USA.
+9. Information Diffusion on Twitter: Pattern Recognition and Prediction of Volume, Sentiment, and Influence, Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, ACM, p157-167, December 2017, New York, USA. [Link](https://dl.acm.org/doi/pdf/10.1145/3148055.3148078)
+
+8. Goal-Oriented Conversational System Using Transfer Learning and Attention Mechanism, The 10th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference, Columbia University, October 2019, New York City, USA. [Link](https://www.researchgate.net/profile/Amartya-Hatua/publication/339258591_Goal-Oriented_Conversational_System_Using_Transfer_Learning_and_Attention_Mechanism/links/5e7e1e2d299bf1a91b8246d0/Goal-Oriented-Conversational-System-Using-Transfer-Learning-and-Attention-Mechanism.pdf)
 
 7. Dialogue Generation Using Self-Attention Generative Adversarial Network, First IEEE International Conference on Conversational Data & Knowledge Engineering (CDKE 2019), October 2019, San Diego, USA. 
 
