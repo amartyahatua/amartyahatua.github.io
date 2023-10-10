@@ -7,13 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+Image preprocessing for segmentation:
+<br>
+	[Part 1:](https://medium.com/@amartya_hatua/image-preprocessing-for-segmentation-part-2-563dc8ec05b4)
+	<br>
+	[Part 2:](https://medium.com/@amartya_hatua/preprocess-of-images-for-segmentation-6b8007187e8e)
