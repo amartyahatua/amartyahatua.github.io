@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Currently, I am working as a Senior Data Scientist in a financial services company. 
+I work as a Senior Data Scientist in a financial services company. 
 <br>
 My work is focused on developing financial prediction models for existing and prospective clients.  
 Prior to this, I worked as a post-doctoral fellow at the University of Houston worked with [Dr. Rakesh Verma](http://cs.uh.edu/~rmverma)  and [Dr. Arjun Mukherjee](https://www2.cs.uh.edu/~arjun/).
