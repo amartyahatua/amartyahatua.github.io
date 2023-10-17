@@ -12,7 +12,8 @@ author_profile: true
 3. APPARATUS FOR CONTROLLING IMAGE DISPLAY AND METHOD THEREOF: [KR20160008893A](https://worldwide.espacenet.com/patent/search/family/055306847/publication/KR20160008893A?q=pn%3DKR20160008893A)
 
 ## Publications
-14. How to Detect AI-Generated Texts?, IEEE UEMCON 2023, Colombia University, New York, USA.
+14. How to Detect AI-Generated Texts?, IEEE UEMCON 2023, October 2023, Colombia University, New York, USA. (Awarded the 
+Best Paper in Natural Language Processing Category)
 
 13. AI-Enhanced Data Processing and Discovery Crowd Sourcing for Meteor Shower Mapping. [Link](https://arxiv.org/pdf/2308.02664.pdf)
 
