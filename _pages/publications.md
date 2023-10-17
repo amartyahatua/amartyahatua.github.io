@@ -12,9 +12,11 @@ author_profile: true
 3. APPARATUS FOR CONTROLLING IMAGE DISPLAY AND METHOD THEREOF: [KR20160008893A](https://worldwide.espacenet.com/patent/search/family/055306847/publication/KR20160008893A?q=pn%3DKR20160008893A)
 
 ## Publications
+14. How to Detect AI-Generated Texts?, IEEE UEMCON 2023, Colombia University, New York, USA.
+
 13. AI-Enhanced Data Processing and Discovery Crowd Sourcing for Meteor Shower Mapping. [Link](https://arxiv.org/pdf/2308.02664.pdf)
 
-12. Claim Verification using a Multi-GAN based Model, RANLP 2021: Recent Advances in Natural Language Processing​ (Online event). [Link](https://arxiv.org/abs/2103.08001)
+12. Claim Verification using a Multi-GAN based Model, RANLP 2021: Recent Advances in Natural Language Processing (Online event). [Link](https://arxiv.org/abs/2103.08001)
 
 11. On the Feasibility of Using GANs for Claim Verification-Experiments and Analysis, Workshop on Reducing Online Misinformation through Credible Information Retrieval, April 2021, Tuscany, Italy (Online event). [Link](https://par.nsf.gov/servlets/purl/10292222)
 
