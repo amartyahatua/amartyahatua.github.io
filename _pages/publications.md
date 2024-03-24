@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications
 14. How to Detect AI-Generated Texts?, IEEE UEMCON 2023, October 2023, Colombia University, New York, USA. (Awarded the 
-Best Paper in Natural Language Processing Category)
+Best Paper in Natural Language Processing Category) [Link](https://ieeexplore.ieee.org/abstract/document/10316132)
 
 13. AI-Enhanced Data Processing and Discovery Crowd Sourcing for Meteor Shower Mapping. [Link](https://arxiv.org/pdf/2308.02664.pdf)
 
